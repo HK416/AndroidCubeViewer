@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleCustomView</string>
+    <string name="titleText">Smartphone Game Programming</string>
+    <string name="clockwiseBtn">Clockwise</string>
+    <string name="counterClockwise">Counter Clockwise</string>
+    <string name="upperCubeCheckBox">Upper</string>
+    <string name="lowerCubeCheckBox">Lower</string>
+</resources>
